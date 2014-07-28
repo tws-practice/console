@@ -155,6 +155,7 @@ Use the following command to search for a running process using a pattern.
 - **./configure** - Run the configure script that comes with the source code. This creates a Makefile
 - **make** - Run the build specified in the Makefile
 - **sudo make install** - Run the install script from the Makefile. This installs the program
+- **which**
 
 #### Related Links
 
