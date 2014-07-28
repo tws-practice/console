@@ -42,6 +42,10 @@
   - **-r**
 - **mkdir** (make directory)
 
+### 1.6 If You Have Any Questions
+
+- **man** (Manual Page)
+
 ## 2 Users and Permissions
 
 ### 2.1 Creating Users
